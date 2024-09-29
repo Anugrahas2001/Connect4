@@ -7,8 +7,33 @@ Connect 4 is a dynamic multiplayer game built using React.js for the frontend, T
 
 ## Laptop View
 ![Screenshot (304)](https://github.com/user-attachments/assets/dd10d3d4-c63b-4947-ad4b-ea4539954694)
-
+![Screenshot (307)](https://github.com/user-attachments/assets/f7cc036b-4217-433a-b6e7-e5c51e506bd9)
 ![Screenshot (293)](https://github.com/user-attachments/assets/a498b880-b71d-4a3b-bfdd-f3b69ed9ef51)
 
 ## Mobile View
 ![Screenshot (305)](https://github.com/user-attachments/assets/a25192a4-8e71-4790-83ee-b29b2c269113)
+![Screenshot (317)](https://github.com/user-attachments/assets/916e7c3e-0fc1-4ce6-8f56-b794ec526fd8)
+![Screenshot (318)](https://github.com/user-attachments/assets/f35b05f1-c150-4619-bd92-2dbb37673669)
+
+
+## Technologies
+
+- Node.js
+- Express.js
+- TypeScript
+- Websocket.io
+- React
+- Tailwind CSS
+- Git
+
+## How to Install
+
+### Backend
+1. Git Clone: https://github.com/Anugrahas2001/connect4-server
+2. Navigate to the Terminal
+3. Execute npm start
+
+### Frontend
+1. Git Clone: https://github.com/Anugrahas2001/connect4-client
+2. Navigate to the terminal.
+3. Excute npm run
